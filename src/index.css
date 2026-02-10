@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #213547;
+  background-color: #f3f4f6;
+}
+
+.root {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
