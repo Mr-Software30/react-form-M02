@@ -86,16 +86,6 @@ function EmployeeForm({ onAddEmployee }) {
             />
             Female
           </label>
-          <label>
-            <input
-              type="radio"
-              name="gender"
-              value="Other"
-              checked={formValues.gender === 'Other'}
-              onChange={handleChange}
-            />
-            Other
-          </label>
         </div>
       </div>
 
